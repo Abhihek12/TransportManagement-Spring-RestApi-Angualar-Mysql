@@ -1,0 +1,1 @@
+This is Angular Project which is connected to Spring Rest Api
